@@ -6,6 +6,8 @@ articles:
     link: https://www.contentful.com/r/knowledgebase/jamstack-cms/
   - title: Isomorphic Rendering on the JAMstack
     link: https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/
+  - title: Building a JAMstack blog: Gatsby and ButterCMS on Netlify
+    link: https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify
   - title: Dynamic product management in a static e-commerce workflow
     link: https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful
   - title: "JAMstack for Clients: On Benefits & Static Site CMS"
